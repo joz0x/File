@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/h1-domain-verification.txt", "dest": "/api/h1-domain-verification.txt.js" }
+  ]
+}
